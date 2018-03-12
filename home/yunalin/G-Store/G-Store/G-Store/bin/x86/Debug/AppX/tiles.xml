@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<tile>
+  <visual>
+    <binding template="TileSmall">
+      <text hint-style="subtitle">Small</text>
+      <image src ="Assets/image.jpg" placement ="background"></image>
+    </binding>
+
+    <binding template="TileMedium">
+      <text hint-style="subtitle">Medium</text>
+      <image src ="Assets/image.jpg" placement ="background"></image>
+    </binding>
+
+    <binding template="TileWide">
+      <text hint-style="subtitle">Wide</text>
+      <image src ="Assets/image.jpg" placement ="background"></image>
+    </binding>
+   
+  </visual>
+</tile>
